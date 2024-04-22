@@ -1,2 +1,24 @@
-# Online-Store
-![photo1713777622](https://github.com/EgorVolovetski/Online-Store/assets/113033903/07c5a583-3fcd-420f-b237-dbf211bd2681)
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
