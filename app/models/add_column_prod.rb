@@ -1,0 +1,2 @@
+class AddColumnProd < ApplicationRecord
+end
